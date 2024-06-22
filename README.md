@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/fedibenam/fedibenam/blob/main/Github%20Banner.png)
+![MasterHead](https://github.com/fedibenam/fedibenam/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h3 align="center">A passionate Web developer from Tunisia</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" align="right">
 
