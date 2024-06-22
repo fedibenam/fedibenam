@@ -1,5 +1,4 @@
-[![MasterHead](file:///C:/Users/FEDI/Downloads/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Fedi Ben Hamouda</h1>
+![MasterHead](https://github.com/Github Banner.png
 <h3 align="center">A passionate Web developer from Tunisia</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" align="right">
 
